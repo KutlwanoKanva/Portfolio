@@ -1,18 +1,18 @@
-# Data Cleaning Challenge
+# 🧼 Data Cleaning Challenge
 
-## Project Overview
-Document and clean a messy dataset, showcasing your skills and methodology for turning raw data into usable insights.
+This project demonstrates basic data cleaning techniques using a messy dataset.
 
-## Steps
-1. Import the raw dataset
-2. Identify and document data issues (missing values, typos, inconsistent formats)
-3. Apply data cleaning techniques
-4. Compare before-and-after results
-5. Summarize your approach and learnings
+## Key Tasks
+- Removed duplicate rows
+- Handled missing values in age and salary
+- Standardized inconsistent date formats
+- Stripped extra whitespace and cleaned column names
 
 ## Tools Used
-- Python (pandas), Excel, or SQL
-- Jupyter Notebook
+- Python
+- Pandas
 
-## Instructions
-Follow the notebook step-by-step.
+## What I Learned
+- How to clean and prepare real-world data for analysis
+- Techniques for handling missing and inconsistent values
+- Importance of data quality in any analytics workflow
