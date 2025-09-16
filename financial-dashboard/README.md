@@ -1,33 +1,18 @@
-# Financial Dashboard
+# 💰 Financial Dashboard
 
-## Overview
-This project is a comprehensive financial dashboard that allows users to track their expenses, income, and overall financial health.
+This project uses Streamlit to create a simple dashboard for tracking monthly revenue, expenses, and profit.
 
-## Features
-- Expense tracking
-- Income tracking
-- Visualization of financial data
-- Budgeting tools
+## Key Tasks
+- Loaded and processed financial data
+- Calculated monthly profit
+- Visualized revenue, expenses, and profit trends
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/KutlwanoKanva/Portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Portfolio/financial-dashboard
-   ```
-3. Install the required dependencies:
-   ```bash
-   npm install
-   ```
+## Tools Used
+- Python
+- Pandas
+- Streamlit
 
-## Usage
-To start the financial dashboard, run:
-```bash
-npm start
-```
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+## What I Learned
+- How to build interactive dashboards using Streamlit
+- Basic financial metrics and visualizations
+- Presenting data in a user-friendly format
