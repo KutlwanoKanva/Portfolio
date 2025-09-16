@@ -1,4 +1,4 @@
-# Kutlwano  | Data Analysis Portfolio
+# Kutlwano  | Junior Data Analysis Portfolio
 
 Welcome! I'm Kutlwano Kanva, an aspiring data analyst passionate about solving business challenges with data.
 
