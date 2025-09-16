@@ -1,0 +1,23 @@
+import streamlit as st
+import pandas as pd
+
+# Load data
+df = pd.read_csv('financial_data.csv')
+
+# Calculate profit
+df['Profit'] = df['Revenue'] - df['Expenses']
+
+# Title
+st.title("📊 Financial Dashboard")
+
+# Show data
+st.subheader("Monthly Financials")
+st.dataframe(df)
+
+# Line chart
+st.subheader("Revenue vs Expenses")
+st.line_chart(df[['Revenue', 'Expenses']])
+
+# Profit bar chart
+st.subheader("Monthly Profit")
+st.bar_chart(df['Profit'])
