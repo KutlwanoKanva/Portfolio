@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kutlwano Kanva
+# 👋 Hi, I'm Miracle (kUTLWANO) Ejiofor
 
 Aspiring Data Analyst & Developer | Passionate about turning data into insights
 
