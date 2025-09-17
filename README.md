@@ -1,28 +1,46 @@
-# Kutlwano  | Junior Data Analysis Portfolio
+# 👋 Hi, I'm Kutlwano Kanva
 
-Welcome! I'm Kutlwano Kanva, an aspiring data analyst passionate about solving business challenges with data.
+Aspiring Data Analyst & Developer | Passionate about turning data into insights
 
-This portfolio showcases my journey and growth in data analysis, featuring beginner-friendly projects that highlight practical skills in cleaning, exploring, and visualizing data. Each project includes clear steps, tools used, and key insights.
-
-## Projects
-
-- **Sales Data Analysis:** Exploratory analysis and dashboard for sales trends.  
-- **Customer Segmentation:** Clustering customers to find actionable business segments.  
-- **Data Cleaning Challenge:** Cleaning and documenting a messy dataset for analysis.  
-- **Financial Dashboard:** Track and visualize financial health with interactive tools.
-
-## Skills Demonstrated
-
-- Data cleaning and wrangling  
-- Exploratory data analysis  
-- Visualization & dashboards  
-- Clustering and segmentation  
-- Use of Python, Pandas, Jupyter, Streamlit, Matplotlib, Seaborn
-
-## About Me
-
-I'm building my way into the field of data analysis. This portfolio is a reflection of my learning, curiosity, and drive to turn raw data into useful insights for real-world problems.
+Welcome to my GitHub portfolio! I'm on a journey to master data analytics and development, and this space showcases the projects, tools, and skills I'm building along the way.
 
 ---
 
-> *Feel free to explore each project folder for details and step-by-step notebooks!*
+## 🛠️ Skills & Tools
+- **Languages**: Python, SQL, HTML, CSS, JavaScript
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Streamlit, Power BI, Excel
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Customer Segmentation
+Used clustering techniques to segment customers based on purchasing behavior.  
+📁 [View Project](https://github.com/KutlwanoKanva/Portfolio/tree/main/Customer%20Segmentation)
+
+### 🔹 Financial Dashboard
+Built an interactive dashboard using Power BI to visualize financial performance.  
+📁 [View Project](https://github.com/KutlwanoKanva/Portfolio/tree/main/Financial%20Dashboard)
+
+### 🔹 Sales Analysis
+Cleaned and analyzed sales data to uncover trends and insights.  
+📁 [View Project](https://github.com/KutlwanoKanva/Portfolio/tree/main/Sales%20Analysis)
+
+---
+
+## 📚 Currently Learning
+- Advanced SQL
+- Machine Learning with Scikit-learn
+- Web development fundamentals
+
+---
+
+## 📬 Contact Me
+- 📧 Email: kutlwanoejiofor@icloud.com
+- 💼 LinkedIn: Miracle (Kutlwano) Ejiofor
+- 🌐 Portfolio Website: [Coming Soon!]
+
+---
+
+Thanks for stopping by! Feel free to explore my projects and connect with me.
