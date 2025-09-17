@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miracle (kUTLWANO) Ejiofor
+# 👋 Hi, I'm Miracle (KUTLWANO) Ejiofor
 
 Aspiring Data Analyst & Developer | Passionate about turning data into insights
 
